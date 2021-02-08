@@ -103,7 +103,6 @@ void GradeBook::inputGrades(){
 					cout << "Nota inválida inserida. Favor inserir uma nota de A a F ou o comando EOF" << endl;
 					break;
 				}
-				
 				//fim do switch
 		}//fim do while
 }
